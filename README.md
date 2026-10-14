@@ -11,7 +11,6 @@
 <a href="https://fabiusmaia.github.io/New-portfolio/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/fabius-maia-622988242/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ffam-20@hotmail.com"><img src="https://img.shields.io/badge/Email-581c87?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=Fabiusmaia&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -39,12 +38,7 @@
 | [**LANcord**](https://github.com/Fabiusmaia/LANcord) | Discord alternative for LAN gaming: voice chat, screen sharing and text chat, no cloud | Electron · React · TypeScript · Socket.io |
 | [**DNS Log Classifier**](https://github.com/Fabiusmaia/Classificador-de-DNS) | Classifies DNS query logs as safe, suspicious or malicious using an AI API | Laravel · PHP · PostgreSQL |
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=Fabiusmaia&theme=tokyonight&hide_border=true&background=1a1033&ring=a78bfa&fire=e879f9&currStreakLabel=a78bfa" alt="GitHub streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiusmaia&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1033&title_color=a78bfa&langs_count=8" alt="Top languages" />
-</p>
+## 🐍 Contributions
 
 <p align="center">
   <picture>
