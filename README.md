@@ -20,7 +20,7 @@
 - ⚙️ Laravel and Node.js/NestJS APIs, Next.js/React interfaces with TypeScript
 - 🚀 CI/CD pipelines with GitHub Actions and Docker for reliable deployments
 - 🎮 In my free time: 3D rendering experiments and tools for gaming with friends
-- 📍 São Paulo, Brazil · open to remote opportunities
+- 📍 São José do Rio Preto, SP, Brazil · open to remote opportunities
 
 ## 🛠️ Tech stack
 
